@@ -32,5 +32,3 @@ Brief description about your project...
 
 Made with ❤️ by Sofia
 
-
-Made with ❤️ by Sofia
