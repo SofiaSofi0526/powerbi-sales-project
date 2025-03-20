@@ -20,6 +20,17 @@ This repository contains a **Sales Dashboard** project created using Power BI. T
 ## 💡 Insights
 This dashboard helps businesses identify growth opportunities, track sales KPIs, and make data-driven decisions.
 
----
+# PowerBI Sales Project
+
+Brief description about your project...
+
+## Tech Stack & License
+
+- 🧰 **Tech Stack:** Power BI, Excel
+- 📝 **License:** MIT License
+
+
+Made with ❤️ by Sofia
+
 
 Made with ❤️ by Sofia
